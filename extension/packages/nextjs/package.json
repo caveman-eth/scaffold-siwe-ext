@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "iron-session": "^8.0.4"
+  }
+}
+
